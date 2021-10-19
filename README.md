@@ -1,10 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-
 
 # Dependency Chain using Ajax in Django
 
