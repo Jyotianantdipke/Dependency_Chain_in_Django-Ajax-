@@ -1,4 +1,9 @@
 
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 
 
 # Dependency Chain using Ajax in Django
@@ -240,4 +245,9 @@ I'm using JQuery to create Asynchronous request,
 ```
 
 
+## Contributing
+
+Here We have done with implementation of Dependency Chain using Ajax,
+
+Please feel free to fix bugs, improve things, Just send a pull request, Thanks!!!
 
