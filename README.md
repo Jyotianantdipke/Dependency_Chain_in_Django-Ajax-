@@ -2,7 +2,7 @@
 
 # Dependency Chain using Ajax in Django
 
-Here we are going to discuss how we can implement A DependencyChain using Ajax in Django, but for this we need to have a little bit knowledge of Ajax and JQuery.
+Here we are going to discuss how we can implement A Dependency Chain using Ajax in Django, but for this we need to have a little bit knowledge of Ajax and JQuery.
 
 AJAX stands for Asynchronous JavaScript And XML, which allows web pages to update asynchronously by exchanging data to and from the server. 
 This means you can update parts of a web page without reloading the complete web page. It involves a combination of a browser built-in XMLHttpRequest object, 
