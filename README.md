@@ -33,7 +33,7 @@ Perform the following operations step by step for implementing Dependency Chain
 
 1. Country
 2. State(one-to-many relation with Country)
-3. City(one-to-many relation with city)
+3. City(one-to-many relation with State)
 4. Person(one-to-many relation with Country,State,City)
 
 ```bash
