@@ -22,7 +22,7 @@ As the name Suggests Dependency chain works on previously selected field or outp
 For ex:-
 
 We have to create address of a person, for this we are using country,state, and city 
-when user selects the country, accordingly State list will shown in dropdown list and after that according to that state City list will be shown to user,
+when user selects the country, accordingly State list will shown in dropdown list and after that according to that state, City list will be shown to user,
 
 
 Perform the following operations step by step for implementing Dependency Chain
